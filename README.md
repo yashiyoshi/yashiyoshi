@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yassir</h1>
 <h3 align="center">A wizard</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/yashiyoshi)
+- 🔭 I’m currently working on [my portfolio](https://yassirutara.netlify.app/)
 
 - ⚡ Fun fact **I think I'm funny**
 
