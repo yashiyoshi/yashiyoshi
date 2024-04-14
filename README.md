@@ -1,7 +1,7 @@
 # ⚡Yassir Utara
 **`actually!`**
 
-I like to challenge myself with new technologies, and building small projects relevant to my tiny life 💫<br />
+I like to challenge myself with new technologies and building small projects relevant to my tiny life 💫<br />
 
 🔭 I’m currently working on the websites for my [portfolio](https://yassirutara.netlify.app/) and [business](https://chiboards.netlify.app/)<br />
 👨‍🎓 A student at Ateneo de Davao University, Philippines <br />
