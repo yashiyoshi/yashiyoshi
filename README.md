@@ -1,11 +1,8 @@
 # ⚡Yassir Utara
 **`actually!`**
 
-I like to challenge myself with new technologies and building small projects relevant to my tiny life 💫<br />
-
-🔭 I’m currently working on the websites for my [portfolio](https://yassirutara.netlify.app/) and [business](https://chiboards.netlify.app/)<br />
-👨‍🎓 A student at Ateneo de Davao University, Philippines <br />
-🏸 I try to be active during my free time! Occasionally go to the gym and play badminton with friends :) <br />
+🔭 I’m currently working @ Mugna Technologies as a Project Manager <br />
+👨‍🎓 A fresh grad from Ateneo de Davao University, Philippines <br />
 
 <br />
 
